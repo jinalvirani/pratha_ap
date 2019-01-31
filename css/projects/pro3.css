@@ -1,0 +1,80 @@
+@media screen and (max-width: 768px) {
+	
+	.overlay .overlay-content .full .portfolio-img .msg2 .arrowright{
+	float:right;
+	margin-right:0%;
+	margin-top:-25%;
+	position:relative;
+}
+.overlay .overlay-content .full .portfolio-img .msg2 .arrowleft{
+	
+	float:left;
+	margin-left:-11%;
+	margin-top:-25%;
+	position:absolute;
+}
+
+}
+@media screen and (max-width: 590px) {
+	
+	.overlay .overlay-content .full .portfolio-img .msg2 .arrowright{
+	float:right;
+	margin-right:0%;
+	margin-top:-30%;
+	position:relative;
+}
+.overlay .overlay-content .full .portfolio-img .msg2 .arrowleft{
+	float:left;
+	margin-left:-11%;
+	margin-top:-30%;
+	position:absolute;
+}
+}
+@media screen and (max-width: 500px) {
+	
+	.overlay .overlay-content .full .portfolio-img .msg2 .arrowright{
+	float:right;
+	margin-right:0%;
+	margin-top:-40%;
+	position:relative;
+}
+.overlay .overlay-content .full .portfolio-img .msg2 .arrowleft{
+	float:left;
+	margin-left:-8.3%;
+	margin-top:-40%;
+	position:absolute;
+}
+}
+@media screen and (max-width: 340px) {
+	
+	.overlay .overlay-content .full .portfolio-img .msg2 .arrowright{
+	float:right;
+	margin-right:0%;
+	margin-top:-70%;
+	position:relative;
+}
+.overlay .overlay-content .full .portfolio-img .msg2 .arrowleft{
+	float:left;
+	margin-left:-5.3%;
+	margin-top:-60%;
+	position:absolute;
+}
+}
+
+@media screen and (max-width: 768px) {
+	
+	.overlay .overlay-content .full .portfolio-img .msg2 .arrowright{
+	float:right;
+	margin-right:0%;
+	margin-top:-25%;
+	position:relative;
+}
+.overlay .overlay-content .full .portfolio-img .msg2 .arrowleft{
+	
+	float:left;
+	margin-left:-11.1%;
+	margin-top:-25%;
+	position:absolute;
+}
+
+}

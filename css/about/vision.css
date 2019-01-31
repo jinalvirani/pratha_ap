@@ -1,0 +1,23 @@
+a.aboutus,li ul li a.vision {color:#b9b624;}
+a.home,a.contactus,a.projects,a.gallary,a.testimonial,a.career,li ul li a.profile {color:#fff;}
+.entry-text a.text1
+{
+	text-decoration:none;
+}
+.toggle
+{
+	display:none;
+}
+.font{
+	font-size:20px;
+	cursor:pointer;
+}
+.entry-text{
+	margin:-10px;
+	size:18px;
+}
+.toggle
+{
+	font-size:18px;
+	text-align:justify;
+}

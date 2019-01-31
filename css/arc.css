@@ -1,0 +1,8 @@
+.social-list li.facebook a:hover, a:focus
+{
+	color:#4a5b7d;
+}
+.social-list li.google-plus a:hover, a:focus
+{
+	color:#DD4B39;
+}

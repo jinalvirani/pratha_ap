@@ -1,0 +1,45 @@
+a.projects {color:#c5a47e;}
+a.home,a.career,a.aboutus,a.gallary,a.testimonial,a.contactus {color:#fff;}
+
+.visible_item{
+ display:none;
+}
+.element-item{
+margin-bottom:20px;
+}
+.button-group-home
+{
+	float:left;
+	margin-left:5%;
+}
+
+.button:hover {
+  color: #b9b624;
+}
+
+.button:active,
+
+
+.button.is-checked {
+  color: #b9b624;
+  
+}
+.button {
+	color:white;
+     background:none!important;
+     
+     border:none; 
+     padding:0!important;
+     font: inherit;
+ font-family:'Oswald',sans-serif;
+ text-transform:uppercase;
+ font-weight: 100;
+font-size: 0.9em;
+letter-spacing: 0.32em;
+
+   margin-right:55px;
+     cursor: pointer;
+}
+a.projects {color:#b9b624;}
+a.home,a.aboutus,a.contactus,a.gallary,a.testimonial,a.career {color:#fff;}
+

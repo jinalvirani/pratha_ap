@@ -1,0 +1,28 @@
+form .error 
+{
+	color: #b9b624;  
+}
+.fa,i
+{
+	color:rgb(185,185,86);
+}
+.contacts .container .section-content .row-base .col-address .icon
+{
+	margin-left:3%;
+	margin-right:-10%;
+}
+.contacts .container .section-content .row-base .col-address .icon a
+{
+	text-decoration:none;
+	color:rgba(255,255,255,0.5);
+}
+.contacts .container .section-content .row-base .col-address .icon a:hover
+{
+	text-decoration:none;
+	color:#b9b624;
+}
+.contacts .container .section-content .row-base .col-base .row-field .col-field .form-group
+{
+	margin-left:1.7%;
+	width:100%;
+}
